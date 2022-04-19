@@ -14,7 +14,7 @@
       <div style="display:flex;"class="display-flex">
         <a class="navbar-brand" href="#">
           <div class="container text-center">
-            <p style="font-size:2rem;">Eco Web</p>
+            <p style="font-size:2rem; color:black;">Eco Web</p>
           </div>
         </a>
       </div>
@@ -27,7 +27,7 @@
 <!--
     <footer class="py-5 bg-dark text-white text-center bottom">
       <div class="container">
-              Copyright @ 
+              Copyright @
       </div>
     </footer> -->
 
